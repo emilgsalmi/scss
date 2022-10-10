@@ -1,7 +1,7 @@
-@use "variables";
+@use "variables" as v;
 
 body{
-    background-color: varaibles.$bgcolor;
+    background-color: v.$bgcolor;
     height: 100vh;
     margin:0;
 }
